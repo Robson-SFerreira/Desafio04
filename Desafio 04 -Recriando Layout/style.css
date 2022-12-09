@@ -1,0 +1,89 @@
+body{
+  margin: o;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #2C2B3D;
+}
+
+nav {
+  width: 1083px;
+  margin: auto;
+  padding-top: 71px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav ul {
+  font-family: 'JetBrains Mono', monospace;
+  display: flex;
+  list-style: none;
+  gap: 64px;
+}
+
+nav ul a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+nav ul a:hover{
+  color: #C2C2C2;
+}
+
+main span {
+  color: #00BFA6;
+}
+
+main {
+  width: 1092px;
+  margin: 100px auto 157px;
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
+  width: 614px;
+  font-family: 'JetBrains Mono', monospace;
+  color: #ffffff;
+  margin-bottom: 59px;
+  font-size: 36px;
+  line-height: 40px;
+}
+
+section {
+  text-align: center;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  width: 604px;
+  color: #C2C2C2;
+  font-size: 16px;
+  line-height: 28px;
+}
+
+.line {
+  width: 568px;
+  margin: auto;
+  border: 1px solid #00BFA6;
+  background-color: #00BFA6;
+
+}
+
+footer {
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 14px;
+  line-height: 28px;
+  margin-top: 27px;
+}
+
+#instagram {
+  color: #FFFFFF;
+}
+
+.cadeado {
+  position: relative;
+  bottom: 20px;
+  left: 20px;
+}
